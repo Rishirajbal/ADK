@@ -1,0 +1,1 @@
+The structured outputs help in structuring the output data but they cannot use tools or hand over control to other agents.
